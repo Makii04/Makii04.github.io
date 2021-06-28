@@ -1,6 +1,6 @@
 ---
 layout: page
-title: acerca de
+title: Acerca de
 permalink: /acerca-de/
 ---
 
