@@ -4,8 +4,8 @@ title: Acerca de
 permalink: /acerca-de/
 ---
 
-Welcome to my blog "CodingWithMaki", nice to have you here with me!.   
-This blog has been created to write about my learning designing web pages, I hope you like it!
+Bienvenidos a mi blog “CodingWithMaki”, ¡es un gusto tenerte aquí conmigo!.
+Este blog ha sido creado para escribir sobre mi aprendizaje diseñando páginas web, ¡espero que les guste!
 
 ### More Information
 
