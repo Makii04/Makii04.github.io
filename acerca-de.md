@@ -5,7 +5,7 @@ permalink: /acerca-de/
 ---
 
 Bienvenidos a mi blog “CodingWithMaki”, ¡es un gusto tenerte aquí conmigo!.
-Este blog ha sido creado para escribir sobre mi aprendizaje diseñando páginas web, ¡espero que les guste!
+Este blog ha sido creado para escribir sobre mi aprendizaje diseñando páginas web, ¡espero que os guste!
 
 ### More Information
 
