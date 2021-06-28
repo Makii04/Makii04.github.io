@@ -4,7 +4,8 @@ title: Acerca de
 permalink: /acerca-de/
 ---
 
-Some information about you!
+Welcome to my blog "CodingWithMaki", nice to have you here with me!.
+This blog has been created to write about my learning designing web pages, I hope you like it!
 
 ### More Information
 
