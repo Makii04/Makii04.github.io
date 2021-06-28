@@ -7,10 +7,6 @@ permalink: /acerca-de/
 Bienvenidos a mi blog “CodingWithMaki”, ¡es un gusto tenerte aquí conmigo!.
 Este blog ha sido creado para escribir sobre mi aprendizaje diseñando páginas web, ¡espero que os guste!
 
-### More Information
+## ¿Quien soy?
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Soy un chico joven que en su tiempo libre se entretiene mucho en hacer diversas cosas, como por ejemplo diseñar páginas web, empezando desde cero desde esta año.
