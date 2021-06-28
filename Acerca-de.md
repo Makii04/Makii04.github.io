@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-permalink: /Acerca de/
+permalink: /Acerca-de/
 ---
 
 Some information about you!
