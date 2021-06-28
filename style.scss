@@ -183,6 +183,7 @@ img {
 
 .site-info {
   float: center;
+  display: block;
 
   @include mobile {
     float: none;
