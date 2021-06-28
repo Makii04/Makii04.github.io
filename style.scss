@@ -184,6 +184,7 @@ img {
 .site-info {
   float: center;
   display: block;
+  text-align: center;
 
   @include mobile {
     float: none;
