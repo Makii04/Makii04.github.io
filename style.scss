@@ -228,14 +228,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: RGB 128, 31, 126;
+    color: RGB(112, 31, 128);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $red;
+      color: $blue;
     }
   }
 }
