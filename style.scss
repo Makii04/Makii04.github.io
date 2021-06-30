@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $red;
+  color: RGB 112, 31, 128;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $red;
   }
 }
 
