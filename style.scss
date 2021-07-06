@@ -287,7 +287,15 @@ footer {
 }
 
 .foto {
-  font-size: 40px;
+color: white;
+background-color: #0088cc;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+text-align: center;
+position: absolute;
+margin-left: -45px;
+padding: 10px;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
