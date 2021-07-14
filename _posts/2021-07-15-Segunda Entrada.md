@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primera entrada
+title: Segunda entrada
 ---
 
-Esto es el texto de la primera entrada
+Esto es el texto de la segunda entrada.
